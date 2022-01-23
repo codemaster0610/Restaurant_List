@@ -1,16 +1,15 @@
 # Restaurant_List
 ![image](./public/image/snapshot_title_page.PNG)
-此專案提供餐廳一覽及其相關資訊
-## Features
+
 * 使用者可以瀏覽全部所有餐廳
 * 使用者可以搜尋全部所有餐廳
-* 使用者可以瀏覽一家餐廳的詳細資訊
+* 使用者可以瀏覽一家餐廳的詳細資
 * 使用者可以新增一家餐廳
 * 使用者可以修改一家餐廳的資訊
 * 使用者可以刪除一家餐廳
 
 ## Getting Started
-1. 將專案 clone 到本機
+1. 將專案下載到本機
 
 2. 透過 npm 安裝相關套件
 ```bash
@@ -30,7 +29,7 @@ Express is listening on localhost:3000
 mongodb connected!
 ```
 5. 開啟 localhost:3000
-6. 若要暫停使用
+6. 若要關閉主機
 ```bash
 ctrl + c
 ```
